@@ -1,0 +1,47 @@
+export const plans = [
+  {
+    name: "Starter",
+    price: "29.90",
+    period: "por mês",
+    description: "Perfeito para começar",
+    popular: false,
+    features: [
+      { text: "3 APIs ativas" },
+      { text: "10.000 requisições/mês" },
+      { text: "1.000 linhas por planilha" },
+      { text: "Documentação automática" },
+      { text: "Suporte via email" },
+    ],
+    priceId: "price_1SbpyH2aEIppNG6bAnJ6t80r",
+  },
+  {
+    name: "Pro",
+    price: "49.90",
+    period: "por mês",
+    description: "Para projetos profissionais",
+    popular: true,
+    features: [
+      { text: "10 APIs ativas" },
+      { text: "100.000 requisições/mês" },
+      { text: "10.000 linhas por planilha" },
+      { text: "Documentação automática" },
+      { text: "Suporte prioritário" },
+    ],
+    priceId: "price_1Sbpyg2aEIppNG6b73hvHnlz",
+  },
+  {
+    name: "Business",
+    price: "99.90",
+    period: "por mês",
+    description: "Para alta demanda",
+    popular: false,
+    features: [
+      { text: "APIs ilimitadas" },
+      { text: "500.000 requisições/mês" },
+      { text: "100.000 linhas por planilha" },
+      { text: "Documentação automática" },
+      { text: "Suporte prioritário" },
+    ],
+    priceId: "price_1Sbpz12aEIppNG6bVqVShwRw",
+  },
+];
